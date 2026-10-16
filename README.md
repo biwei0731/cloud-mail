@@ -152,7 +152,7 @@ cloud-mail
 
 ## 交流
 
-[Telegram](https://t.me/cloud_mail_tg)
+[Telegram](https://t.me/cloud_mail_tg) <!-- build trigger: v3.3.0 deploy 2026-10-16 -->
 
 
 
